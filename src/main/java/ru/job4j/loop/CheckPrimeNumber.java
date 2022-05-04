@@ -9,7 +9,7 @@ public class CheckPrimeNumber {
                 break;
             }
         }
-        if (number <= 2) {
+        if (number < 2) {
             prime = false;
         }
         return prime;
