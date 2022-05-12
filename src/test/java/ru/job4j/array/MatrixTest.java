@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class MatrixTest {
-
     @Test
     public void when2on2() {
         int size = 2;

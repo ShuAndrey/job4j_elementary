@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class CounterTest {
-
     @Test
     public void whenSumEvenNumbersFromOneToTenThenThirty() {
         int start = 1;

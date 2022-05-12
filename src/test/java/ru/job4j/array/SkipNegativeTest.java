@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class SkipNegativeTest {
-
     @Test
     public void whenArrayRowAndColumnEquals() {
         int[][] array = {

@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class FactorialTest {
-
     @Test
     public void whenCalculateFactorialFor5Then120() {
         int in = 5;
