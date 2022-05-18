@@ -14,7 +14,7 @@ public class PointTest {
     }
 
     @Test
-    public void when13to24then2dot82() {
+    public void when12to34then2dot82() {
         double expected = 2.82;
         Point first = new Point(1, 2);
         Point second = new Point(3, 4);
