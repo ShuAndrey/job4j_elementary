@@ -6,7 +6,7 @@ public class Max {
     }
 
     public static int max(int a, int b, int c) {
-        return a > max(b, c) ? a : max(b, c);
+        return max(max(a, b), c);
     }
 
     public static int max(int a, int b, int c, int d) {
